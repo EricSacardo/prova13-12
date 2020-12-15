@@ -1,0 +1,32 @@
+
+{"diferenciais":[ 
+    {   "concorreu":"BAFTA Awards",
+        "indicacao": "Melhor jogo em Evolução (Drew McCoy)",
+        "ano": 2020,
+        "venceu":"Melhor Jogo Multiplayer (Brent McLeod)",
+        "aprovacao" :"91% Gostam"
+    },
+    {
+        "concorreu":"NAVGTR Awards",
+        "indicacao": ["Figurino (Respawn Entertainment) / \n","\n Game, Original Action (Respawn Entertainment) / \n", "\n Game Design, New IP (Respawn Entertainment)"],
+        "ano": 2020,
+        "venceu":" "
+    },
+    {
+        "concorreu":"The Game Awards",
+        "indicacao": ["Melhor Jogo em Andamento (Respawn Entertainment) / \n", "Melhor Apoio à Comunidade (Respawn Entertainment)"],
+        "ano": 2020, 
+        "venceu":" "
+    },
+    {
+        "concorreu":"The Game Awards",
+        "indicacao": ["Melhor Jogo em Andamento (Respawn Entertainment & Eletronic Arts) / \n", "Melhor Apoio à Comunidade (Respawn Entertainment & Eletronic Arts) / \n", " \nMelhor Jogo de Ação (Respawn Entertainment & Eletronic Arts)"],
+        "ano": 2019, 
+        "venceu":" Melhor Jogo Multiplayer (Respawn Entertainment & Eletronic Arts) "
+    }
+   
+]
+}
+ 
+
+

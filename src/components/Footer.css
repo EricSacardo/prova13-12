@@ -1,0 +1,41 @@
+.textoSuperior{
+    background-color: rgba(151, 29, 29, 0.685);
+    color: rgb(34, 1, 1);  
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  h5 {
+      display: flex;
+      color: white;
+      font-weight:  sans-serif;
+  }
+  p2{
+      color: rgb(230, 230, 230);
+  }
+  p{ 
+      color: white;
+      font-weight: Fantasy;
+      font-size: 12px;
+  }
+  
+  .divPrincipal{
+      width: 1349px;
+      background-color: rgba(85, 14, 14, 0.966);
+  }
+  .Contato{
+     margin-left: 80%;
+  }
+  .copy{ 
+      color: rgba(221, 187, 255, 0.473);
+      font-size: 15px;
+      font-style: italic;
+      text-align: center;
+      padding: 1cm;
+  }
+  
+  .footerSociais{
+      width: 200px;
+      height: 20px;
+      margin-left: 50px;
+  }

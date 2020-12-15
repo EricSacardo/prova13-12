@@ -1,0 +1,19 @@
+.gif{
+    width: 100%;
+    height: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, .voltar{
+    position: relative;
+    top: -150px;
+    left: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.voltar{
+    left: 65%;
+    font-size: 30px;
+}

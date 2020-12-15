@@ -1,0 +1,40 @@
+.Imagem{
+    margin-top: 0px;
+    width: 1349px;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+     opacity : 0.85;
+}
+.Texto{
+    width: 500px;
+    height: 50px;
+    color: rgb(31, 24, 24);
+    border-radius: 10px;
+    position: relative;
+    top: -150px;
+    left: 32%;
+}
+
+.butTabela{
+    margin-left: 100%;
+}
+.tabela{
+    margin-top: 0;
+    margin-left: 1%;
+    width: 100%;
+}
+.botao{
+    width: 40%;
+    height: 35px;
+    margin-left: 30%;
+    border-radius: 1000px;
+    background-color: rgba(85, 14, 14, 0.966);
+    color: white;
+}
+.botao:hover{
+    background-color:  rgba(92, 28, 17, 0.904);
+}

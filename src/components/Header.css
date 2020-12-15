@@ -1,0 +1,31 @@
+.icone{
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+
+}
+body{
+    background-color:rgba(131, 39, 39, 0.432); 
+    width: 97%;
+}
+ul{
+    margin-top: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(114, 33, 33);
+    border-bottom: 10px solid black;
+    font-family: Fantasy;
+    font-size: large;
+}
+li{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(248, 228, 228);
+}
+a:hover{
+    color: rgba(41, 0, 0, 0.692);
+}
